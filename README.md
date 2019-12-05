@@ -8,7 +8,8 @@ REDEFINING POLITICS. REMAKING WORLDS.
 
 Visit http://www.dynamicunity.org and http://www.dynaptics.co.uk for more information.
 
-#Philosophy #Politics
+#Philosophy #Politics #Futurism
+
 A SKY BLUE APPROACH THINKTANK BUILDING THE FUTURE OF DIGITAL POLITICS TODAY!
 
 ALL RIGHTS RESERVED, COPYRIGHT IAIN FRANK TAYLOR 2019
