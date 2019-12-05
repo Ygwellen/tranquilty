@@ -11,11 +11,38 @@ jobs:                                   #magrathea.wltzh4dl    PRIMARY MISSIONS 
 # these jobs are not for jobsworths, (^^) but all can participate, appropriate recompense and reward is assured, 
 #as appropriate to the individual in question.
   
-runs-on:    FREE ENQUIRY OF AMALGAMATION 
+runs-on:    FREE ENQUIRY OF AMALGAMATION
+            MONITOR
+            
 
-subflow name: ORIGINAL POSITION
-  entry: 0=0 & 0=1 & 0=3 & 0=8 THEREFORE 1=3=8 #PLACEHOLDER FOR GITHUB AUTOCORRECT BAD INDENTATION.
-  uses: contact  @v1.0.0
+purpose(s): #Maintain system integrity, retrieve lost components, anticipate, repair, & address system corruption;
+            #Ensure that contributor is capable of keeping his word as intended and assured.
+            #Built trust in system, minimise risk to system components, check system stability and strength
+            #to fulfil objectives
+            #TO APPLY TACTICS TO DYNAMICALLY ADAPT TO SYSTEM, METASYSTEM, AND OTHER SYSTEM ADJUNCTS TO PREVENT
+            #CRITICAL SYSTEM FAILURE FROM UNINTENDED EMERGENT PROPERTIES AND ISSUES.
+            #see www.dynamicunity.org for more details.
+            #to learn the mechanics of GITHUB and to learn programming methods.
+
+Project priority: SYSTEM INTEGRITY
+        if MONITOR observes SYSTEM INTEGRITY as <1 , then BUILD: GITHUB BAD CODE DETECTION RESPONSE.
+                 LOG to GITHUB UI: GITHUB Bad Code responses.      
+                 run:  %PROTOCOL:QUARENTINE%
+                 
+  
+  
+  
+                 ACTIVE MOONCAKE WORKFLOW from ACTIVE SYSTEM WORKFLOW until workflows compatible;
+                          if ORIGINAL WORKFLOW has INTEGRITY <1 post QUARENTINE then;
+                              enact: %PARADOX CLAUSE%  #retreat ORIGINAL WORKFLOW TO LAST KNOWN STABLE POSITION.
+      
+              run: %PROTOCOL:v1.0.0.ALPHANUMERIC%
+advantage:
+disadvantage:
+issue: 
+
+flowname: ENTRYCODE
+  uses: first contact %PROTOCOL.@*@%  @v1.0.0
   check: comms.channel
       if SAME or ESTABLISHED then GOTO 20, if DIFFERENT then %PROTOCOL:MINBARI%
   with:
