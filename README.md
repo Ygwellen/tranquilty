@@ -1,2 +1,14 @@
-# MOONCAKE
-Philosophy and Politics
+# PROJECT MOONCAKE #
+Produced on the GitHUB platform. 
+
+
+CREATED BY IAIN FRANK TAYLOR OF DYNAPTICS ENTERPRISES & DYNAMIC UNITY.
+
+REDEFINING POLITICS. REMAKING WORLDS.
+
+Visit http://www.dynamicunity.org and http://www.dynaptics.co.uk for more information.
+
+#Philosophy #Politics
+A SKY BLUE APPROACH THINKTANK BUILDING THE FUTURE OF DIGITAL POLITICS TODAY!
+
+ALL RIGHTS RESERVED, COPYRIGHT IAIN FRANK TAYLOR 2019
