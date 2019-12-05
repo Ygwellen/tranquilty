@@ -1,2 +1,2 @@
-# MOONCAKE
+# PROJECT URSA #
 Philosophy and Politics
