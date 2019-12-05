@@ -1,2 +1,0 @@
-# MOONCAKE
-Philosophy and Politics
