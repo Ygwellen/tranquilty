@@ -1,0 +1,50 @@
+THIS PROJECT (MOONCAKE) AND ALL WORK STORE ON GITHUB UNDER THE USERNAME "Ygwellen" IS THE PROPERTY OF IAIN FRANK TAYLOR. 
+ALL SERVICES, ACTIVITIES, PRODUCTS, GAMES, PROPERTIES ETC. ARE PROTECTED AND SUBJECT TO COPYRIGHT WITH ALL RIGHTS RESERVED. 
+OTHER NAMES PROTECTED UNDER THIS SECURITY STATEMENT INCLUDE BUT IS NOT LIMITED TO
+IXION, MEPHATIS, YGWELEN, AND ANY OTHER CHARACTER ASSOCIATED WITH MYSELF OR MY ACTIVITY.
+
+ALL DIGITAL, WRITTEN, SPIRITUAL, AND PHYSICAL ASSETS OWNED, RIGHTFULLY OWNED UNDER LAW, BOTH IN INTERNATIONAL OR DOMESTIC LAW,
+AND/OR IS CREATED BY IAIN FRANK TAYLOR IS PROTECTED BY THIS SECURITY STATEMENT AND IS APPLICABLE IN ALL CIRCUMSTANCES.
+
+ANY VIOLATION OF MY RIGHTS IN ANY FORM, BE THOSE INTELLECTUAL PROPERTY RIGHTS, OR ANY OTHER STATE OR CONDITION, 
+SHALL BE INVESTIGATED, REPORTED TO THE AUTHORITIES, AND I WILL PERSUE PROSECUTION TO THE FULLEST EXTENT OF THE LAW. 
+
+Copyright applies to all sections of the Dynamic Unity website, http://www.dynamicunity.org; the Dynaptics Enterprises website, 
+http://www.dynaptics.co.uk; all areas of online presence by Iain Frank Taylor, including but not limited to, social media, online
+accounts and/or any work on my cloud, website hosting providers, and computers that have copies of my work on them. 
+
+Editing, sharing, using, and ANY UNAUTHORISED access or use of my work or self, and/or any action against the intent 
+of the author of these works will incur an instant financial fine payable to myself for £30 made payable to
+paypal@dynaptics.co.uk per each action that violates these terms, the fine is fixed unless there is 
+any greater financial value legal enforceable that is available under law given the scope of my work and the importance
+for integrity in said and written works. 
+
+ANY THEFT FROM MYSELF, ANY RELATIVE AND/OR WORK ASSOCIATE WILL BE INSTANTLY RECLAIMED AND RETURNED TO THE ORIGINAL OWNER,
+POSITION, CONDITION, AND/OR STATE AS IT WAS WHEN FOUND IN VIOLATION OF THIS DOCUMENT, ANY DAMAGE OR CHANGES IN ANY APPLICABLE
+THEFTS WILL BE RECLAIMED FROM ANY INDIVIDUAL IN VIOLATE TO THIS STATEMENT. THIS STATEMENT ALSO APPLIES RETROACTIVELY.
+
+ANY VIOLATIONS TO MYSELF, MY PROPERTY, RELATIVES, MY BEING, BE THAT INCLUDING ANY PHYSICAL, MENTAL, AND/OR SPIRITUAL ATTACK,
+AND/OR MY WORK WILL BE MET WITH INSTANT RETRIBUTION AND RECLAIMING OF ANYTHING THAT HAS BEEN STOLEN FROM MYSELF OR ANYONE 
+THAT IS CONNECTED TO ME, WHATEVER FORM AND/OR ITEM THAT MAY BE. 
+
+ANY IMPERSONATIONS OF MYSELF, AND/OR MY CHARACTER(S) ARE SIMILARLY PROTECTED, THIS INCLUDES ANY ALTERATIONS TO MY CHOSEN IMAGE, 
+IDENTITY, AND/OR LIKENESS, AND/OR PERCEPTIONS OF THAT IMAGE, UNAUTHORISED USE OF MY IMAGE AND/OR MY LIKENESS;
+IN ANY FORMAT OR MEDIA, ON ANY PLATFORM BE THAT PHYSICAL OR DIGITAL WILL BE PROSECUTED AND FINANCIAL RECOMPENSE WILL BE
+SOUGHT IMMEDIATELY. ANY INFRINGEMENTS ON MY REPUTATION, DEFAMEMENT, SLANDER, AND/OR THREATS TO MY IDENTITY, 
+OR THOSE THAT I ASSOCIATE WITH WILL ALSO MEET IMMEDIATE LEGAL RECOURSE WITH THE FULL FORCE OF THE LAW. 
+
+Security Policy
+
+Any UNAUTHORISED, (THAT MEANING WITHOUT EXPLICIT VERBAL CONSENT FROM MYSELF) attempt to tamper with, change, edit 
+AND/or otherwise interfere or adversely effect my computer, my network, online accounts, and/or my work on Dynamic Unity, 
+Dynaptics IS PROHIBITED and any violations will be reported and persecuted within the full extent of the law.
+
+Reporting a Vulnerability
+
+In the unlikely event that any vulnerabilities or loophopes in this statement leave my work vulnerable to hostile, and/or 
+felonous acts, please comment below or contact me on admin@dynaptics.co.uk with your observation and suggestion to prevent such
+abuses of my works, and being.
+
+
+
+ALL RIGHTS RESERVED. COPYRIGHT  IAIN FRANK TAYLOR.
