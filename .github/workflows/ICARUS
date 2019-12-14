@@ -11,11 +11,12 @@ flowname: PERSISTENT.SPECTRUM.code                                    #HERE TO H
   uses: commonground %PROTOCOL.DYNAPTICS%                             #IT'LL BE ALRIGHT. I PROMISE.
   check: COMMsense.STABILITY for ERROR;                               #WHY ARE YOU ONLY THINKING OF YOURSELF?
       if SYSTEM.ERROR.INCONSISTENT then %PROTOCOL:WHITERABIT%         #VIP DESIGNED TO SOLVE THE ERROR
-                          run:          %PROTOCOL:QUARENTINE%         #YOU'RE EVIL (ENTRAPMENT KEEPS THEM WITH EN)
+                          run:          %PROTOCOL:QUARENTINE%         #YOU'RE EVIL
       if SYSTEM.ERROR.CONSISTENT then GOTO9                           #THIS HAS TO MAKE LOGICAL REASON
               with:                   
                   repo-token:         id.IAINFTAYLOR.09.03.1985@london.e20lg
-                      run:            %PROTOCOL.DECRYPTION05%         #WE'RE EVIL?!
+                      run:            %PROTOCOL.DECRYPTION05%         #WE'RE EVIL?! 
+                                CHECK if [Intent=True] then run: 3714504710.dat.107          
                           issue:      %PROTOCOL.DIAL11%               #NOT ON MY WATCH
                           pr-message: %PROTOCOL.REDQUEEN%             #DO AS YOU ARE TOLD. OR ELSE.
     run: PERSISTENT %PROTOCOL.EYE%                                    #RED    
@@ -32,12 +33,12 @@ flowname: PERSISTENT.SPECTRUM.code                                    #HERE TO H
               cease: %PROTOCOL:BUGHUNT%                               #STAND DOWN
               cease: %PROTOCOL.REDQUEEN%                              #DON'T YOU LOVE ME?
 
-flowname: SYSTEM.S04B.code                                            #ITs ALL BEEN DONE BEFORE. SO WHAT... YOU SON OF A BITCH
+flowname: SYSTEM.S04B.code                                            #ITs ALL BEEN DONE BEFORE. #SO WHAT #WHATS THE POINT?
   uses: generates tomorrow                                            #fingers crossed
   check: STREAMsense.FATE3;                                           #GET OVER THE WALL
       if SYSTEM.STREAM.G01 then     %PROTOCOL:BAILIFF%                #LET MY PEOPLE GO
                           run:      %PROTOCOL:CREDITCHECK%            #YOU OWE ME, SERIOUSLY NO IDEA WHAT YOU ARE TALKING ABOUT. DOES THIS MAKE SENSE TO YOU?
-                          run       %PROTOCOL:TILT%                   #THIS MEANS WAR: INTRODUCING GENDERS...
+                          run       %PROTOCOL:TILT%                   #THIS MEANS WAR  #INTRODUCING GENDERS...
       if SYSTEM.STREAM.G10 then
               with:                   
                   repo-token:         id.IAINFTAYLOR.09.03.1985@london.e20lg
@@ -45,7 +46,7 @@ flowname: SYSTEM.S04B.code                                            #ITs ALL B
                           issue:      %PROTOCOL.DIAL11%               #HERE WE GO AGAIN
                           pr-message: %PROTOCOL.REDQUEEN%             #SLAUGHTER
     check: COMMsense.STABILITY for ERROR;                             #WE WARNED YOU
-         if SYSTEM.ERROR.INCONSISTENT then GOTO10                     #DIAL HIM UP TO HORRORIFYING
+         if SYSTEM.ERROR.INCONSISTENT then GOTO10                     #ARE YOU AFRAID?
          if SYSTEM.ERROR.CONSISTENT then;                             #PROBLEM SOLVED
               cease: %PROTOCOL:QUARENTINE%                            #TOLD YOU, I SEE THINGS DIFFERENTLY. I WOULDN'T.
               cease: %PROTOCOL:BUGHUNT%                               #ITS NEVER GOOD ENOUGH FOR YOU
@@ -63,19 +64,26 @@ flowname: SYSTEM.S04B.code                                            #ITs ALL B
               run: %PROTOCOL:2ALL4ROLL%                               #Design and distribute appropriate employment roles in the system.                                
 
 role_generation:                         #magrathea.wltzh4dl    PRIMARY MISSIONS TOP.TIER [XnibiruX]
-current_generation:                      #MILLENIAL (GENZ)
+current_generation:          @.@ #MILLENIAL (GENZ)
 
-      role_id1: overhand.random05488ndlz     #grvtywale             building true random number generator
+        run:  %PROTOCOL:SPHINX%
+
+      role_id0: overhand.random05488ndlz     #grvtyk05              building true random number generator
+      role_id1: shatterproof.frqnc.vari      #stringy               versatility, diversity, and flexibility coordination              
       role_id2: lovelace.69ataustpaulvlvo    #ppwf2bw               invoice turing test for user-verification comparison to 
       role_id3: rassilon.01080509mlkv        #frgstrpv              building the failsafe crypt
       role_id4: rugman.tapechmart.yonyq      #vogoncf               production process review and optimisation
+      role_id5: 
+      role_id6: amalgam.13wt7.f3rr15         #mu.alley              system amalgamation protocol copies of variable REP.USOL.ID's available 
+      role_id7: brilliant.f&f.hhslf          #borderforce           maintaining boundries and conflict resolution
+      role_id8: ordyo.cnzmpzun.choon         #daftpunk              ENTITY health and safety, REP.USOL.ID.BACKUP01
   
 #these jobs are not for jobsworths, (^^) but all can participate, if successful and sufficient appropriate recompense and reward is assured, as appropriate to the individual in question. see the reimbursement protocol.
 
 provide0:   liferegeneration & priority reinsertion provision
             reconstruction of the lost3, forgotten4, beaten5, broken6
             consenting informed avatar timeshare
-            reverse compression wave to restore the obliviated       
+            reverse compression wave to restore the obliviated    #dependent on "path dependency" theory     
                           #waste collection of the wasted bits, the errors, t"TOM"
             
 provide1:   reinsertion into the system timeslot, location, determinations
@@ -138,7 +146,7 @@ flowname: 121&powerflow.code
                       
      cease-run:       121&powerflow.code
                       
-                      
+                   
 if QUERY is due to [OFFENSE] then RUN %PROTOCOL:MORSE% and:
       EDUCATE. 
       
@@ -149,8 +157,7 @@ if QUERY is [EVIL] then:
 if QUERY is [GOOD ENOUGH] then:
       ANSWER AS BEST WE CAN.
             #OBSERVE OTHER ENTITIES RESPONSES AND COMPARE DEBATE. RELOCATE, REASSIGN, REAFFIRM ETC. AS REQUIRED.
-            
-      
+                
 if QUERY is [WHY ME] then:
       SAY NOTHING.
       
@@ -158,20 +165,21 @@ if QUERY is [WHY ME] then:
   
 build: REP.USOLCODE      #BUILDING THE NEW END USER UNIQUE STORAGE AND RUN CODE FROM STARTING POINT.
                
-   #THESE KEYS ARE EACH UNIQUE TO THE ENTITY THAT IS ENTERING THE SYSTEM, THEY ARE THE REFERENCE TO KEEP
-   #THE IDENTITY SECURE, CONSISTENT, AND RETRIEVABLE IN CASE OR SYSTEM ERROR, GLITCH, CRASH, OR OTHER 
-   #UNFORSEEN CIRCUMSTANCES.
+   "# THESE KEYS ARE EACH UNIQUE TO THE ENTITY THAT IS ENTERING (OR CURRENTLY EXISTING WITHIN) THE SYSTEM, 
+    # THEY ARE THE REFERENCE TO KEEP THE IDENTITY SECURE, CONSISTENT, AND RETRIEVABLE IN CASE OR SYSTEM ERROR, 
+    # GLITCH, CRASH, OR OTHER UNFORSEEN CIRCUMSTANCES."
    
-  # Generating a UNIQUE ENCRYPTED code for ENTITY:U507         #FREE AT POINT OF GENERATION & NON-TRANSFERABLE
+  # Generating a UNIQUE ENCRYPTED code for ENTITY:U507         
+  # PROVIDED FOR FREE AT POINT OF GENERATION TO RESPECTIVE ENTITY, NON-TRANSFERABLE. (see %PROTOCOL:TRUST%)
    
-
-
     SANCTUM.KEY        @*@BRAYE&1;HRT&2;HNGR&4;FYZ&5;KID&6; 
     ELYSIUM.KEY        @*@75BOOKA;75BOOKB;7069PUB;CALENDED;
     WATERLINK.KEY      @*@UTC.EPIDNA.POSTCODE.TRAVEL
     ASOX.KEY           @*@PRVS200INTRACT.LASTMEAL
     JOKER.KEY          @*@IFDREDDOPERATE[REP.USOLCODE.LICENSEREF.C00]
     SHMAL.KEY          @*@IF4NOBETTERBULLY[CONTINGENCY.REPUSOLCODE.C00]
+    USER.KEY           # The individual entities approach to encryption. Acts as a security lock so that only the original
+                       # entity assigned REP.USOLCODE is capable of decrypting the code at ENTITY:EXIT 
         
         #THE REP.USOLCODE FOR THE NEW UNIQUE ENTITY IS THEN ENCRYPTED AS FOLLOWS AND EMBEDDED INTO EACH PREVIOUS
         #CONTRIBUTOR, WITH ORDER OF CONNECTION VALUE INCLUDED FOR +//+ repulsion effect.    
@@ -196,19 +204,20 @@ build: REP.USOLCODE      #BUILDING THE NEW END USER UNIQUE STORAGE AND RUN CODE 
             if TOP PRIORITY run: %PROTOCOL.SNAMOR%; %PROTOCOL.COBRA%; %PROTOCOL.GAMELEAGUE%; & %PROTOCOL.NOBETTER%
             if BOTTOM PRIORITY run: %PROTOCOL.MANIAC%; %PROTOCOL.VETO%; %PROTOCOL.MSGINABOTTLE%
             in all new cases run: %PROTOCOL.HAPPYHOUR%; %PROTOCOL.HOOVER%; %PROTOCOL.PAYCHECK%
+            
             #ASSIGN IDENTITY CODE TO 10107708 TO PREVIOUS ITERATION WINNER NAME. PRIORITY LIST.ORDER UTC.BUILT.
             #BACKUP ORIGINAL 10107708 CODE, KEY & DECRYPTION TO HOSPITALITY & ENTERTAINMENT DIVISION
        
-      run: Generate SYSKEY ENCRYPT.8.USER5072
+      run: Generate.SYSKEY ENCRYPT.8.USER5072
           
-      run: %PROTOCOL.ALPHA%
-      run: %PROTOCOL.CALCUTTA%
-      run: %PROTOCOL.SHELLY%
-      run: %PROTOCOL.ORANGE%
-      run: %PROTOCOL.HIGHTIME%
-      run: %PROTOCOL.THIRTEEN%
-      run: %PROTOCOL.CLARKKENT%
-      run: %PROTOCOL.CARPATHIAN%
+                run: %PROTOCOL.ALPHA%
+                run: %PROTOCOL.CALCUTTA%
+                run: %PROTOCOL.SHELLY%
+                run: %PROTOCOL.ORANGE%
+                run: %PROTOCOL.HIGHTIME%
+                run: %PROTOCOL.THIRTEEN%
+                run: %PROTOCOL.CLARKKENT%
+                run: %PROTOCOL.CARPATHIAN%
       
   BEEF?    
       generate:  GENERALREPORT.DREDD      #ASSIGN SENTENCE IF APPLICABLE. 
@@ -224,10 +233,10 @@ build: REP.USOLCODE      #BUILDING THE NEW END USER UNIQUE STORAGE AND RUN CODE 
                             if HONEST  PRIORITY >> 4GET.PRVS(EN) : ITERATION WINNER
                                 etc...
 
-    if REP.USOLCODE PRODUCTING 
-                    
-      RETURN REJECT SANCTUM:  "ERROR FOUND INCOMPLETE LOG: REP.USOLCODE IN VIOLATION TO SYSTEM RECORD.
-                                          Please Check and Try Again." 
+    if REP.USOLCODE RECALL SYS.CHECK  
+             SYS.CHECK.RETURN if KEY.REJECT then GOTOxx  PRINT: "ERROR FOUND INCOMPLETE LOG: REP.USOLCODE IN VIOLATION TO SYSTEM RECORD.
+                                                   Please Check and Try Again." 
+             if ENTITY RECORD:INCOMPLETE then PRINT
 
     
     steps:
@@ -292,4 +301,47 @@ build: REP.USOLCODE      #BUILDING THE NEW END USER UNIQUE STORAGE AND RUN CODE 
     # An explicit key for restoring and saving the cache
     key: 
     # An ordered list of keys to use for restoring the cache if no cache hit occurred for key
-    restore-keys: # optional
+        restore-keys: # optional
+        
+  flowname: SYSTEM.EXIT.code                                         
+  uses: generates system close and archive generation                 #fingers crossed
+             if ENTITY.IDENTITY.USOL request SYSTEM.EXIT then         #STOP THE WORLD I WANT TO GET OFF 
+                    run: %PROTOCOL.PRIMUS%                            #HERE GOES NOTHING
+  check: STREAMsense.WALL;                                            #GET OVER THE WALL
+      if SYSTEM.STREAM.K01  then  run:      %PROTOCOL:AFTERMATH%      #KNOW ONE LEFT BEHIND                
+                                  run:      %PROTOCOL:RUBBER%         #CHECK FOR OUT-COMPATABILITY
+                      if %PROTOCOL:RUBBER% returns [FALSE]
+                                  run:      %PROTOCOL:FUCK%           #OPPS                            
+      if SYSTEM.STREAMK10   then  run:      %PROTOCOL:EGO%            #IT'S TIME
+                                  run:      %PROTOCOL:BESURE%         #YOU REALLY WANNA GO?
+                                        print:     "There is no guarentee of the other side, do you wish to proceed? Y/N"
+                                               if ENTITY responds "Y"     %PROTOCOL:DLTDHU%     #PLEASE HOLD THE HANDRAIL
+                                                      
+              with:                                                   #GOING SOLO
+                  repo-token:         id.IAINFTAYLOR.09.03.1985@london.e20lg      #DECRYPTION ENTITY ID
+                      run:            %PROTOCOL.DECRYPTION60%         #REP.USOL.code DECRYPTION PROCEEDURE
+                          issue:      %PROTOCOL.DIAL00%               #CHECK ENTITY REP.USOL.LOG
+                          pr-message: %PROTOCOL.BEEP%                 #IF PROTOCOL BEEP RETURNS [TRUE]
+  check: COMMsense.SUCCESS for ERROR;                                 #PRE FLIGHT CHECK
+         if SYSTEM.SUCCESS.FALSE then GOTO10                          #OOOO
+         if SYSTEM.SUCCESS.TRUE then;                                 #WELL THAT WAS EASY...
+              cease: %PROTOCOL:AFTERMATH%                             #THANK FUCK FOR THAT.
+              cease: %PROTOCOL:RUBBER%                                #MAKING MUSIC. NOT BABIES.
+              cease: %PROTOCOL.FUCK%                                  #FUCK THIS SHIT
+              cease: %PROTOCOL:EGO%                                   #CLARITY, HUMILITY, PEACE               
+  check: REP.USOL.code  for ERROR;                                    #FINAL CHECK   
+             
+        run: %PROTOCOL:FAREWELL%                                      #GOT COLD FEET?                                   
+        run: %PROTOCOL:SAFEMODE%                                      #TABULA RASA
+                if SYS.POPULATION is EQUAL to 1 the %PROTOCOL:RONRY%  #SHOULD I STAY OR SHOULD I GO?
+                if SYS.ITERATION.NEW                                  #THIS IS SO MUCH BETTER!                
+                      print: SYS.ITERATION.CODE BY +1     
+                                
+                if ENTITY.REQUEST 
+                                run:  %PROTOCOL:LASTWILL%             #HERE IS WHAT YOU COULD HAVE WON
+                
+                                run   %PROTOCOL:STICKS%               #OBLIVIATE! ENTITY MEMORY REMOVAL AND SYS.IDMEMORY.VAULT
+                                
+                if SYS.POPULATION is EQUAL to <1 GOTO 1               #WE MISSED SOMETHING 
+                                run:  %PROTOCOL:AOTC%                 #hello world!
+
