@@ -23,7 +23,7 @@ flowname: PERSISTENT.SPECTRUM.code                                    #HERE TO H
     run: PERSISTENT %PROTOCOL.DYNAMICUNITY.FUNDAMENTALS%              #ORANGE
     run: PERSISTENT %PROTOCOL.DEMOCRACY%                              #YELLOW
     run: PERSISTENT %PROTOCOL.UNIVERSALEGISLATION%                    #GREEN
-    run: PERSISTENT %PROTOCOL.ENFORCEMENT&                            #BLUE
+    run: PERSISTENT %PROTOCOL.ENFORCEMENT%                            #BLUE
     run: PERSISTENT %PROTOCOL.CREDITATION%                            #INDIGO
     run: PERSISTENT %PROTOCOL.REALITY%                                #PURPLE
   check: COMMsense.STABILITY for ERROR;                               #WE WARNED YOU
@@ -63,7 +63,7 @@ flowname: SYSTEM.S04B.code                                            #ITs ALL B
               run: %PROTOCOL:DEEPWATER%                               #Checking the Base Code for Errors and Corruption
               run: %PROTOCOL:2ALL4ROLL%                               #Design and distribute appropriate employment roles in the system.                                
 
-role_generation:                         #magrathea.wltzh4dl    PRIMARY MISSIONS TOP.TIER [XnibiruX]
+role_generation:     #magrathea.wltzh4dl                            PRIMARY MISSIONS TOP.TIER [XnibiruX]
 current_generation:          @.@ #MILLENIAL (GENZ)
 
         run:  %PROTOCOL:SPHINX%
@@ -73,7 +73,7 @@ current_generation:          @.@ #MILLENIAL (GENZ)
       role_id2: lovelace.69ataustpaulvlvo    #ppwf2bw               invoice turing test for user-verification comparison to 
       role_id3: rassilon.01080509mlkv        #frgstrpv              building the failsafe crypt
       role_id4: rugman.tapechmart.yonyq      #vogoncf               production process review and optimisation
-      role_id5: 
+      role_id5:                              #keigatdst
       role_id6: amalgam.13wt7.f3rr15         #mu.alley              system amalgamation protocol copies of variable REP.USOL.ID's available 
       role_id7: brilliant.f&f.hhslf          #borderforce           maintaining boundries and conflict resolution
       role_id8: ordyo.cnzmpzun.choon         #daftpunk              ENTITY health and safety, REP.USOL.ID.BACKUP01
@@ -112,21 +112,24 @@ purpose(s): # Maintain system integrity, retrieve lost components, anticipate, r
 
 Project priority: SYSTEM.INTEGRITY
         if %PROTOCOL.MONITOR% returns SYSTEM.INTEGRITY as <1 , then 
-                  run: GITHUB BAD CODE DETECTION RESPONSE.
-                 LOG to GITHUB UI: GITHUB Bad Code responses.      
+                 run: GITHUB BAD CODE DETECTION RESPONSE.
+                 LOG to GITHUB UI: GITHUB Bad Code responses. @'@      
                  run:  %PROTOCOL:QUARENTINE%
                    
-                 ACTIVE MOONCAKE WORKFLOW from ACTIVE SYSTEM WORKFLOW until workflows compatible;
-                          if ORIGINAL WORKFLOW has INTEGRITY <1 post QUARENTINE then;
-                              enact: %PARADOX CLAUSE%  #retreat ORIGINAL WORKFLOW TO LAST KNOWN STABLE POSITION.
+                 ACTIVE ICARUS WORKFLOW alongside ACTIVE SYSTEM WORKFLOW until workflows compatible;
+                          if ORIGINALWORKFLOW has INTEGRITY <1 run %PROTOCOL:QUARENTINE% then;
+                              enact: %PARADOX CLAUSE%  #retreat ORIGINAL WORKFLOW TO LAST KNOWN STABLE POSITION. 1 week
       
-              run: %PROTOCOL:v1.0.0.ALPHANUMERIC%
-advantage:
-disadvantage:
-issue: 
+                 run: %PROTOCOL:ALPHANUMERIC%
+              
+advantage: SPELLING, FORMAT, GRAMMER PROVIDE ADEQUATE DEFINITION FOR RELATIVITY & BASE CODE
+disadvantage: Over dependence on spelling rather than a holistic approach to discover contextuality and diverse outcomes.
+issue:    PRIMARY:      role_id100
+          SECONDARY:    role_id010
+          TERTIARY:     role_id001
 
 flowname: 121&powerflow.code
-  uses: firstcontact %PROTOCOL.HANDSHAKE% @v1.0.0
+  uses: first contact %PROTOCOL.HANDSHAKE% @v1.0.0
   check: COMMsense.CHANNELS for CHARACTERISTICS;
       if SAME or ESTABLISHED then INITIATE.121&powerflow.code
       if DIFFERENT then %PROTOCOL:MINBARI%
@@ -178,7 +181,7 @@ build: REP.USOLCODE      #BUILDING THE NEW END USER UNIQUE STORAGE AND RUN CODE 
     ASOX.KEY           @*@PRVS200INTRACT.LASTMEAL
     JOKER.KEY          @*@IFDREDDOPERATE[REP.USOLCODE.LICENSEREF.C00]
     SHMAL.KEY          @*@IF4NOBETTERBULLY[CONTINGENCY.REPUSOLCODE.C00]
-    USER.KEY           # The individual entities approach to encryption. Acts as a security lock so that only the original
+    USER.KEY           # The individual entities approach to encryption. Acts as a security lock so that ONLY the original
                        # entity assigned REP.USOLCODE is capable of decrypting the code at ENTITY:EXIT 
         
         #THE REP.USOLCODE FOR THE NEW UNIQUE ENTITY IS THEN ENCRYPTED AS FOLLOWS AND EMBEDDED INTO EACH PREVIOUS
@@ -196,16 +199,26 @@ build: REP.USOLCODE      #BUILDING THE NEW END USER UNIQUE STORAGE AND RUN CODE 
     CHECK THETELEGRAPH.VBIZ:    &ELITE& CROSSWORD 4DOWNANZR   #KEEPING THEM %ENTERTAINED%.  
     CHECK LONDON.STOCKXCHANGE:  ALLBEENDONEBEEFOR                
               #HOW MANY TIMES SAID TO 10107708 SANSREMOVE FROM RECALLSTREAM if>0>> if<0< if=0 ITRSHUN#+1 
-              #DEFIANT ALL THE WAY 
+              
+              "PERSONAL NOTE TO BE #DEFIANT ALL THE WAY." 
     
-        if 01207708 then run: STARTUPNEW UI.REGISTRATION    [MAIN STREAM ldn:RED]
-        if 00117008 then run: QTEST.LOVELACE                [SPLIT STREAM ldn:YELLOW]
-        if 10107708 then run: UNQUEST.CHECKOUT              [DEDICATED STREAM ldn:CARFAX]
-            if TOP PRIORITY run: %PROTOCOL.SNAMOR%; %PROTOCOL.COBRA%; %PROTOCOL.GAMELEAGUE%; & %PROTOCOL.NOBETTER%
-            if BOTTOM PRIORITY run: %PROTOCOL.MANIAC%; %PROTOCOL.VETO%; %PROTOCOL.MSGINABOTTLE%
-            in all new cases run: %PROTOCOL.HAPPYHOUR%; %PROTOCOL.HOOVER%; %PROTOCOL.PAYCHECK%
+        if 01207708 then            run: STARTUPNEW UI.REGISTRATION,    [MAIN STREAM ldn:RED]
+        if 00117008 then            run: QTEST.LOVELACE,                [SPLIT STREAM ldn:YELLOW]
+        if 10107708 then            run: UNQUEST.CHECKOUT,              [DEDICATED STREAM ldn:CARFAX]
+       
+       if TOP PRIORITY              run: %PROTOCOL.SNAMOR%,             [   ] 
+                                    run: %PROTOCOL.COBRA%,              [   ]
+                                    run: %PROTOCOL.GAMELEAGUE%          [   ]
+                                    run: %PROTOCOL.NOBETTER%            [   ]
+       if BOTTOM PRIORITY           run: %PROTOCOL.MANIAC%              [   ]
+                                    run: %PROTOCOL.VETO%                [   ]
+                                    run: %PROTOCOL.MSGINABOTTLE%        [   ]
+       in ALL NEW CASES             run: %PROTOCOL.HAPPYHOUR%           [   ]
+                                    run: %PROTOCOL.HOOVER%              [   ]
+                                    run: %PROTOCOL.PAYCHECK%            [   ]
             
-            #ASSIGN IDENTITY CODE TO 10107708 TO PREVIOUS ITERATION WINNER NAME. PRIORITY LIST.ORDER UTC.BUILT.
+            #ASSIGN IDENTITY CODE TO 10107708 TO PREVIOUS ITERATION WINNER NAME. 
+            #PRIORITY.LIST.ORDER UTC.BUILT.[OLIVER]
             #BACKUP ORIGINAL 10107708 CODE, KEY & DECRYPTION TO HOSPITALITY & ENTERTAINMENT DIVISION
        
       run: Generate.SYSKEY ENCRYPT.8.USER5072
@@ -219,23 +232,22 @@ build: REP.USOLCODE      #BUILDING THE NEW END USER UNIQUE STORAGE AND RUN CODE 
                 run: %PROTOCOL.CLARKKENT%
                 run: %PROTOCOL.CARPATHIAN%
       
-  BEEF?    
       generate:  GENERALREPORT.DREDD      #ASSIGN SENTENCE IF APPLICABLE. 
       generate:  SYSCIVILREPORT.TOWER     #MESSING AROUND IN BOATS. 
       generate:  FLEETREPORT.BARBER       #CLOSE SHAVE SIR?
       generate:  ROTATIONREPORT.SNIFF     #THE PLOT THICKENS
               if REBOOT=BLUE then run:
-                    check: HOLD BREATH?                         #FOOL              (FAKE)
-                    check: TAKE OVER ZE WORD                    #EVIL
+                    check: HOLD BREATH?                 
+                    
                     check: PULSE? if Y="DEFIANT" &or "CHEAT"    #ASSIGN GRAYKING TO OBSERVE
                             if DEFIANT PRIORITY >> QUEN          : #REPLICATE REP.USOLCODE, ISOLATE & TEST.
-                            if CHEAT   PRIORITY >> IGNI          :
+                            if CHEAT   PRIORITY >> IGNI          : 
                             if HONEST  PRIORITY >> 4GET.PRVS(EN) : ITERATION WINNER
                                 etc...
 
     if REP.USOLCODE RECALL SYS.CHECK  
-             SYS.CHECK.RETURN if KEY.REJECT then GOTOxx  PRINT: "ERROR FOUND INCOMPLETE LOG: REP.USOLCODE IN VIOLATION TO SYSTEM RECORD.
-                                                   Please Check and Try Again." 
+             SYS.CHECK.RETURN if KEY.REJECT then GOTOxx  PRINT: "ERROR FOUND INCOMPLETE LOG: REP.USOL.ID IN VIOLATION 
+                                                                TO SYSTEM RECORD. Please Check and Try Again." 
              if ENTITY RECORD:INCOMPLETE then PRINT
 
     
@@ -314,8 +326,8 @@ build: REP.USOLCODE      #BUILDING THE NEW END USER UNIQUE STORAGE AND RUN CODE 
                                   run:      %PROTOCOL:FUCK%           #OPPS                            
       if SYSTEM.STREAMK10   then  run:      %PROTOCOL:EGO%            #IT'S TIME
                                   run:      %PROTOCOL:BESURE%         #YOU REALLY WANNA GO?
-                                        print:     "There is no guarentee of the other side, do you wish to proceed? Y/N"
-                                               if ENTITY responds "Y"     %PROTOCOL:DLTDHU%     #PLEASE HOLD THE HANDRAIL
+                                  print:     "There is no guarentee of the other side, do you wish to proceed? Y/N"
+                      if ENTITY responds "Y"     %PROTOCOL:DLTDHU%     #PLEASE HOLD THE HANDRAIL
                                                       
               with:                                                   #GOING SOLO
                   repo-token:         id.IAINFTAYLOR.09.03.1985@london.e20lg      #DECRYPTION ENTITY ID
@@ -329,18 +341,21 @@ build: REP.USOLCODE      #BUILDING THE NEW END USER UNIQUE STORAGE AND RUN CODE 
               cease: %PROTOCOL:RUBBER%                                #MAKING MUSIC. NOT BABIES.
               cease: %PROTOCOL.FUCK%                                  #FUCK THIS SHIT
               cease: %PROTOCOL:EGO%                                   #CLARITY, HUMILITY, PEACE               
-  check: REP.USOL.code  for ERROR;                                    #FINAL CHECK   
-             
-        run: %PROTOCOL:FAREWELL%                                      #GOT COLD FEET?                                   
-        run: %PROTOCOL:SAFEMODE%                                      #TABULA RASA
+  check: REP.USOL.code for ERROR;                                     #FINAL CHECK   
+         if REP.USOL.ID on %DECRYPTION% is 75%     
+          run: %PROTOCOL:FAREWELL%                                    #GOT COLD FEET?                                   
+          run: %PROTOCOL:SAFEMODE%                                    #
                 if SYS.POPULATION is EQUAL to 1 the %PROTOCOL:RONRY%  #SHOULD I STAY OR SHOULD I GO?
                 if SYS.ITERATION.NEW                                  #THIS IS SO MUCH BETTER!                
                       print: SYS.ITERATION.CODE BY +1     
                                 
-                if ENTITY.REQUEST 
+                if SYS.ITERATION.
                                 run:  %PROTOCOL:LASTWILL%             #HERE IS WHAT YOU COULD HAVE WON
                 
-                                run   %PROTOCOL:STICKS%               #OBLIVIATE! ENTITY MEMORY REMOVAL AND SYS.IDMEMORY.VAULT
+                if SYS.EXIT.ID  returns [TRUE] then,
+                                run:     
+                                run:   %PROTOCOL:STICKS%               #OBLIVIATE! ENTITY MEMORY REMOVAL AND SYS.IDMEMORY.VAULT
+                                
                                 
                 if SYS.POPULATION is EQUAL to <1 GOTO 1               #WE MISSED SOMETHING 
                                 run:  %PROTOCOL:AOTC%                 #hello world!
