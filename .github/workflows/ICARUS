@@ -3,21 +3,21 @@ name: 3714504710.dat.107            #CONTROL VERSION IN LINE WITH [ED] VERSION S
                   @ENTITY.ID.#@
 on:           VALLHALLA2.HUB.YGWELLEN.TRANQUILLITY.WHITEHORSEBOW       #IF YOU SAY SO; KNOW WHAT I MEAN;
 pathname:     50nq471.yml                                              #CURRENT ITERATION REFERENCE PATH NAME
-runs-on:      REP.SYSTEM.CODE.HUE
+runs-on:      REP.SYSTEM.CODE.HUE.@.@
 
 cryptcode1:  ENTITY.id.IAINFRANKTAYLOR.09.03.1985@london.15<e20lg[%protocol:mooncakealpha%]     
                     #Individuals memory that has the memory of the keycodes
 
 flowname: PERSISTENT.SPECTRUM.code                                    #HERE TO HELP
   uses: commonground %PROTOCOL.DYNAPTICS%                             #IT'LL BE ALRIGHT. I PROMISE.
-  check: COMM.sense.STABILITY for ERROR;                              #WHY ARE YOU ONLY THINKING OF YOURSELF?
+  check: COMM.sense.STABILITY for ERROR;                              
       if SYSTEM.ERROR.INCONSISTENT then %PROTOCOL:WHITERABIT%         
                   @Vgenerate.IP: CURRENT:  DESIGNED TO SOLVE THE ERROR: Fix@
-                          run:          %PROTOCOL:AVA.SYS%            #LEAD
+                          run:          %PROTOCOL:HUE.SYS%            #LEAD
       if SYSTEM.ERROR.CONSISTENT then GOTO8                           #LOGIC
               with:                                                   #LEARN      
-                  repo-token:         CURRENT/ID.IAINFRANKTAYLOR.09.03.1985@london.15.e20lg/05
-                      run:            %PROTOCOL.VAULT%                #WINK 
+                  repo-token:         @CURRENT/ID.IAINFRANKTAYLOR.09.03.1985@london.15.e20lg/05@
+                      run:            %PROTOCOL.PLOT%                 
                                 CHECK if [Intent=True] then, 
                                             run: CURRENT/3714504710.dat.107          
                           issue:      %PROTOCOL.VALUE%                #NOT ON MY WATCH
@@ -29,7 +29,7 @@ flowname: PERSISTENT.SPECTRUM.code                                    #HERE TO H
     run: PERSISTENT %PROTOCOL.ENFORCEMENT%                            #BLUE
     run: PERSISTENT %PROTOCOL.CREDITATION%                            #INDIGO
     run: PERSISTENT %PROTOCOL.REALITY%                                #PURPLE
-  check: COMMsense.STABILITY for ERROR;                               #WE WARNED YOU
+  check: COMMsense.STABILITY for ERROR;                               #WE WARNED YOU 
          if SYSTEM.ERROR.INCONSISTENT then GOTO10                     #OH SH.....
          if SYSTEM.ERROR.CONSISTENT then;                             #REALLY?!
               cease: %PROTOCOL:QUARENTINE%                            #HOW COULD YOU
