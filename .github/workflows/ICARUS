@@ -1,24 +1,27 @@
-name: 3714504710.dat.107            #CONTROL VERSION IN LINE WITH [ED] VERSION STANDARD. VERSION 0.1
+name: 3714504710.dat.107            #CONTROL VERSION IN LINE WITH [ED] VERSION STANDARD. VERSION 0.3
                                     #RESPONSES OF AUTOMATED POSITIONS IN QUARENTINE ARE NOT CERTAIN, PROCESSING PLEASE WAIT.
-
+                  @ENTITY.ID.#@
 on:           VALLHALLA2.HUB.YGWELLEN.TRANQUILLITY.WHITEHORSEBOW       #IF YOU SAY SO; KNOW WHAT I MEAN;
 pathname:     50nq471.yml                                              #CURRENT ITERATION REFERENCE PATH NAME
-runs-on:      ubunto-latest
+runs-on:      REP.SYSTEM.CODE.HUE
 
-cryptcode1:  id.IAINFTAYLOR.09.03.1985@london.e20lg                   #Individuals memory that has the memory of the keycodes
+cryptcode1:  ENTITY.id.IAINFRANKTAYLOR.09.03.1985@london.15<e20lg[%protocol:mooncakealpha%]     
+                    #Individuals memory that has the memory of the keycodes
 
 flowname: PERSISTENT.SPECTRUM.code                                    #HERE TO HELP
   uses: commonground %PROTOCOL.DYNAPTICS%                             #IT'LL BE ALRIGHT. I PROMISE.
-  check: COMMsense.STABILITY for ERROR;                               #WHY ARE YOU ONLY THINKING OF YOURSELF?
-      if SYSTEM.ERROR.INCONSISTENT then %PROTOCOL:WHITERABIT%         #VIP DESIGNED TO SOLVE THE ERROR
-                          run:          %PROTOCOL:QUARENTINE%         #YOU'RE EVIL
-      if SYSTEM.ERROR.CONSISTENT then GOTO9                           #THIS HAS TO MAKE LOGICAL REASON
-              with:                   
-                  repo-token:         id.IAINFTAYLOR.09.03.1985@london.e20lg
-                      run:            %PROTOCOL.DECRYPTION05%         #WE'RE EVIL?! 
-                                CHECK if [Intent=True] then run: 3714504710.dat.107          
-                          issue:      %PROTOCOL.DIAL11%               #NOT ON MY WATCH
-                          pr-message: %PROTOCOL.REDQUEEN%             #DO AS YOU ARE TOLD. OR ELSE.
+  check: COMM.sense.STABILITY for ERROR;                              #WHY ARE YOU ONLY THINKING OF YOURSELF?
+      if SYSTEM.ERROR.INCONSISTENT then %PROTOCOL:WHITERABIT%         
+                  @Vgenerate.IP: CURRENT:  DESIGNED TO SOLVE THE ERROR: Fix@
+                          run:          %PROTOCOL:AVA.SYS%            #LEAD
+      if SYSTEM.ERROR.CONSISTENT then GOTO8                           #LOGIC
+              with:                                                   #LEARN      
+                  repo-token:         CURRENT/ID.IAINFRANKTAYLOR.09.03.1985@london.15.e20lg/05
+                      run:            %PROTOCOL.VAULT%                #WINK 
+                                CHECK if [Intent=True] then, 
+                                            run: CURRENT/3714504710.dat.107          
+                          issue:      %PROTOCOL.VALUE%                #NOT ON MY WATCH
+                          pr-message: %PROTOCOL.ENGINE%               #LIGHT FOLD
     run: PERSISTENT %PROTOCOL.EYE%                                    #RED    
     run: PERSISTENT %PROTOCOL.DYNAMICUNITY.FUNDAMENTALS%              #ORANGE
     run: PERSISTENT %PROTOCOL.DEMOCRACY%                              #YELLOW
