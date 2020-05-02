@@ -46,11 +46,14 @@ flowname: PERSISTENT.SPECTRUM.code                                    #HERE TO H
               cease: %PROTOCOL:QUARENTINE%                            #HOW COULD YOU
               cease: %PROTOCOL:BUGHUNT%                               #STAND DOWN
               cease: %PROTOCOL.REDQUEEN%                              #DON'T YOU LOVE ME?
-   check: CIRCLE.LOCAL COMMsense.STABILITY for ENTITYSTATE            #WOULD YOU MIND TURNING IT DOWN JUST A LITTLE?
+   check: BLOCK.CIRCLE.LOCAL COMMsense.STABILITY for ENTITYSTATE            #WOULD YOU MIND TURNING IT DOWN JUST A LITTLE?
           if CIRCLE.LOCAL.ENTITYSTATE.[#REF#].PRIVACYMODE             #THERE GOES THE NEIGHBOURHOOD
                 then %PROTOCOL.HOTBLACK%                              #DISASTER AREA ON KAKRAFOON  
-                      run: BLOCK.CIRCLE.LOCAL LIST@
-                          ENTITY.ID.[#REF#] 
+                      list: BLOCK.CIRCLE.LOCAL 
+                      run: data.PRIVACYWHITELIST add ENTITY.[#REF#]
+                        
+                       
+                        
    
 flowname: SYSTEM.S04B.code                                            #ITs ALL BEEN DONE BEFORE. #SO WHAT #WHATS THE POINT?
   uses: generates tomorrow                                            #fingers crossed
