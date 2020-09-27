@@ -3,7 +3,7 @@ codelanguage: [REPOSITORY.ID>Ygwellen>WHETSTONE]
 name: 3714504710.dat.107            #CONTROL VERSION IN LINE WITH [ED] VERSION STANDARD. VERSION 0.31
                                     #RESPONSES OF AUTOMATED POSITIONS IN QUARENTINE ARE NOT CERTAIN, PROCESSING PLEASE WAIT.
                   @ENTITY.ID.#@
-on:           THELODGE.VALLHALLA2.HUB.YGWELLEN.TRANQUILLITY.WHITEHORSEBOW       #IF YOU SAY SO; KNOW WHAT I MEAN;
+on:           THEVALLEY.ATRIEDES.HUB.YGWELLEN.TRANQUILLITY.WHITEHORSEBOW       #IF YOU SAY SO; KNOW WHAT I MEAN;
 pathname:     50nq471.yml                                              #CURRENT ITERATION REFERENCE PATH NAME
 runs-on:      REP.SYSTEM.CODE.HUE.@.@
 
@@ -50,10 +50,7 @@ flowname: PERSISTENT.SPECTRUM.code                                    #HERE TO H
           if CIRCLE.LOCAL.ENTITYSTATE.[#REF#].PRIVACYMODE             #THERE GOES THE NEIGHBOURHOOD
                 then %PROTOCOL.HOTBLACK%                              #DISASTER AREA ON KAKRAFOON  
                       list: BLOCK.CIRCLE.LOCAL 
-                      run: data.PRIVACYWHITELIST add ENTITY.[#REF#]
-                        
-                       
-                        
+                      run: data.PRIVACYWHITELIST add ENTITY.[#REF#]         
    
 flowname: SYSTEM.S04B.code                                            #ITs ALL BEEN DONE BEFORE. #SO WHAT #WHATS THE POINT?
   uses: generates tomorrow                                            #fingers crossed
